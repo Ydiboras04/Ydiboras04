@@ -1,15 +1,7 @@
-<img width="347" height="100" alt="image" src="https://github.com/user-attachments/assets/31d6e85c-9b0f-435c-a67b-aecd358d7c8a" />
+<img width="470" height="170" alt="image" src="https://github.com/user-attachments/assets/0b865e23-a66c-4122-ab40-0927f67a5dee" />
 
-```text
-<img width="988" height="198" alt="image" src="https://github.com/user-attachments/assets/139e44d5-6b69-4981-a46e-d4cb56a124fe" />
+---------------------------------------------------------------------------------------------------
 
-██╗   ██╗██████╗ ██╗██████╗  ██████╗ ██████╗  █████╗ ███████╗
-╚██╗ ██╔╝██╔══██╗██║██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██╔════╝
- ╚████╔╝ ██║  ██║██║██████╔╝██║   ██║██████╔╝███████║███████╗
-  ╚██╔╝  ██║  ██║██║██╔══██╗██║   ██║██╔══██╗██╔══██║╚════██║
-   ██║   ██████╔╝██║██████╔╝╚██████╔╝██║  ██║██║  ██║███████║
-   ╚═╝   ╚═════╝ ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
 Hi, I'm Nomeny 👋
 
 I'm a developer from Madagascar 🇲🇬 who loves turning ideas into code, from web apps to games.
