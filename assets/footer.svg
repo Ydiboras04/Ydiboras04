@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Animated wave footer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/><stop offset="0.5" stop-color="#bb9af7"/><stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <path id="wave" d="M0 60 Q 112.5 20 225 60 T 450 60 T 675 60 T 900 60 T 1125 60 T 1350 60 T 1575 60 T 1800 60 V120 H0 Z"/>
+  </defs>
+  <g fill="url(#g)">
+    <use href="#wave" opacity="0.25" y="0">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="9s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" opacity="0.45" y="14">
+      <animateTransform attributeName="transform" type="translate" from="-450 14" to="0 14" dur="7s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" opacity="0.9" y="30">
+      <animateTransform attributeName="transform" type="translate" from="0 30" to="-450 30" dur="5s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
