@@ -15,7 +15,7 @@
 
 I'm a developer from Madagascar 🇲🇬 who loves turning ideas into code, from web apps to games.
 
-- 💻 I enjoy building clean, useful software with **TypeScript**, **Python** and more
+- 💻 I enjoy building clean, useful software with **Rust**, **TypeScript**, **Python** and more
 - 🎮 Passionate about **game design**: creating mechanics, systems and worlds that are fun to play
 - 🌱 Always learning something new
 - 🌐 Portfolio: https://nomeny.is-a.dev
@@ -24,9 +24,9 @@ I'm a developer from Madagascar 🇲🇬 who loves turning ideas into code, from
 
 **Programming Languages**
 
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 
 **Game Engines**
@@ -39,7 +39,7 @@ I'm a developer from Madagascar 🇲🇬 who loves turning ideas into code, from
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ydiboras04&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydiboras04&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydiboras04&layout=compact&langs_count=8&hide=cmake,mdx&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Ydiboras04&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
 

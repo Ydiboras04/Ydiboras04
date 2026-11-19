@@ -9,9 +9,9 @@ import random
 NAME = "YDIBORAS"
 LINES = [
     "Hi, I'm Nomeny — developer from Madagascar",
-    "I build web apps with TypeScript & Python",
+    "I build with Rust, TypeScript & Python",
     "I design games, mechanics & worlds",
-    "Currently learning Rust and more...",
+    "Always learning something new...",
 ]
 
 W, H = 900, 300
